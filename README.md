@@ -51,7 +51,7 @@ You can use the /reset endpoint to reset the in-memory database.
 
 ### Submitting
 
-Please share your solution by forking this repo in your own GitHub account and add n3o-github as a collaborator so we can take a look.
+Please share your solution by cloneing this repo and send us the link so we can take a look.
 
 We look forward to seeing your work!
 
