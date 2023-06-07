@@ -11,10 +11,11 @@ There is no absolute time limit and we won't judge you on how long it took you t
 - Use version control
 - Please use **React** (v16.8+, i.e. hooks) for this project
 - Use Ant Design.
+- Use Tpyescript.
 - You are not required to use a state management library.
 - Use any toolchain you wish, but make sure you provide a **README** so we know how to run your app.
 - We have Setup the Basic Structure.
-- You nust need to npm install ,cd antd-demo-ts and npm start
+- You need to npm install ,cd antd-demo-ts and npm start
 
 ### The Task
 
